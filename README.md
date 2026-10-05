@@ -42,10 +42,10 @@ Desarrollador de Buenos Aires 🇦🇷. Trabajo en el ecosistema **Salesforce** 
 ## 🧰 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=salesforce,js,ts,react,nodejs,astro,tailwind,html,css,java,androidstudio,python,flask,firebase,mysql,git,github,vscode,godot&perline=10" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,astro,tailwind,html,css,java,androidstudio,python,flask,firebase,mysql,git,github,vscode,godot&perline=10" alt="Tecnologías" />
 </p>
 
-**Salesforce:** Apex · Lightning Web Components · Flows · Salesforce DX / CLI · Agentforce
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" /> <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square" alt="Apex" /> <img src="https://img.shields.io/badge/LWC-032D60?style=flat-square" alt="Lightning Web Components" /> <img src="https://img.shields.io/badge/Flows-0176D3?style=flat-square" alt="Flows" /> <img src="https://img.shields.io/badge/Salesforce%20DX%20%2F%20CLI-0B5CAB?style=flat-square" alt="Salesforce DX" /> <img src="https://img.shields.io/badge/Agentforce-7526E3?style=flat-square" alt="Agentforce" />
 
 ## 📫 Contacto
 
